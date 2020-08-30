@@ -1,0 +1,25 @@
+{
+  "configurations": {
+    "Launch": {
+      "adapter": "vscode-cpptools",
+      "configuration": {
+        "request": "launch",
+        "program": "tcsh",
+        "args": [],
+        "cwd": "$HOME/workspace/Reading/tcsh",
+        "environment": [],
+        "externalConsole": true,
+        "MIMode": "gdb",
+        "stopAtEntry": true
+      }
+    },
+    "Attach": {
+      "adapter": "vscode-cpptools",
+      "configuration": {
+        "request": "attach",
+        "program": "tcsh",
+        "MIMode": "gdb"
+      }
+    }
+  }
+}

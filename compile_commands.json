@@ -1,0 +1,773 @@
+[
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "tc.vers.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "tc.vers.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "tw.init.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "tw.init.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "ed.init.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "ed.init.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "sh.set.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "sh.set.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "tw.spell.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "tw.spell.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "ed.defns.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "ed.defns.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "dotlock.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "dotlock.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "sh.dir.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "sh.dir.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "ed.refresh.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "ed.refresh.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "sh.proc.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "sh.proc.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "tc.prompt.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "tc.prompt.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "glob.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "glob.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "tc.bind.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "tc.bind.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "sh.char.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "sh.char.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "sh.file.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "sh.file.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "tc.func.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "tc.func.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "sh.dol.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "sh.dol.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "ed.chared.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "ed.chared.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "sh.err.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "sh.err.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "sh.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "sh.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "tc.sched.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "tc.sched.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "sh.time.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "sh.time.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "sh.sem.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "sh.sem.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "ma.setp.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "ma.setp.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "sh.print.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "sh.print.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "mi.termios.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "mi.termios.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "tc.const.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "tc.const.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "sh.func.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "sh.func.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "tw.parse.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "tw.parse.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "tc.alloc.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "tc.alloc.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "sh.glob.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "sh.glob.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "ed.xmap.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "ed.xmap.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "sh.parse.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "sh.parse.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "tc.who.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "tc.who.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "ed.inputl.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "ed.inputl.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "vms.termcap.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "vms.termcap.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "tc.nls.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "tc.nls.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "sh.exec.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "sh.exec.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "sh.hist.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "sh.hist.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "tc.defs.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "tc.defs.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "ed.screen.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "ed.screen.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "sh.misc.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "sh.misc.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "ed.term.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "ed.term.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "tc.disc.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "tc.disc.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "sh.exp.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "sh.exp.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "tw.color.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "tw.color.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "tc.os.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "tc.os.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "sh.init.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "sh.init.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "tc.printf.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "tc.printf.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "tw.help.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "tw.help.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "tc.sig.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "tc.sig.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "sh.lex.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "sh.lex.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "tc.str.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "tc.str.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-O2",
+            "-I.",
+            "-I.",
+            "-D_PATH_TCSHELL=\"/usr/local/bin/tcsh\"",
+            "tw.comp.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "tw.comp.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I.",
+            "-I.",
+            "-g",
+            "-O2",
+            "-o",
+            "gethost",
+            "gethost.c"
+        ],
+        "directory": "/home/black_desk/workspace/Reading/tcsh",
+        "file": "gethost.c"
+    }
+]
